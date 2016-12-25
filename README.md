@@ -4,8 +4,8 @@ This contains references for running Docker on on Windows Server 2016 for runnin
 
 # Videos & Presentations
 - [Windows Server & Docker - The Internals Behind Bringing Docker & Containers to Windows - Black Belt] (https://www.youtube.com/watch?v=85nCF5S8Qok)
-- [Windows Container Internals] - (https://www.youtube.com/watch?v=sVngukE7msU&t=1868s)
-- [Containers in Windows Server 2016] - https://www.youtube.com/watch?v=LgKGLT-OL1E&t=68s
+- [Windows Container Internals](https://www.youtube.com/watch?v=sVngukE7msU&t=1868s)
+- [Containers in Windows Server 2016](https://www.youtube.com/watch?v=LgKGLT-OL1E&t=68s)
 
 # Useful Blog Posts
 
