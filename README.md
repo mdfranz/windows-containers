@@ -17,6 +17,7 @@ This contains references for running Docker on on Windows Server 2016 for runnin
 ## Microsoft
 - [Top Level Windows Container Page] (https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/)
 - [Configuring Docker Engine on WIndows] (https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon)
+- [Dockerfile on Windows](https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile)
 
 ## Docker
 - [Docker and Microsoft] (https://www.docker.com/microsoft)
