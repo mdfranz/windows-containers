@@ -1,6 +1,6 @@
 # Overview
 
-This contains references for running Docker on on Windows Server 2016 for running Windows containers
+This contains references for running Docker on on Windows Server 2016 for running Windows containers. This is not about running Linux containers. 
 
 # Videos & Presentations
 - [Windows Server & Docker - The Internals Behind Bringing Docker & Containers to Windows - Black Belt] (https://www.youtube.com/watch?v=85nCF5S8Qok)
